@@ -1,4 +1,5 @@
-baseURL = 'https://tullom.github.io/blog/'
+baseURL = 'https://tullom.github.io/'
 languageCode = 'en-us'
 title = 'possumcat yapping'
 theme = 'archie'
+enableEmoji = true
